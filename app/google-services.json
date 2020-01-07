@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535457346882",
+    "firebase_url": "https://managertransactio-445b4.firebaseio.com",
+    "project_id": "managertransactio-445b4",
+    "storage_bucket": "managertransactio-445b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535457346882:android:9e15796df81571c23684db",
+        "android_client_info": {
+          "package_name": "com.example.managertransactio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535457346882-s703amkj8mqrspu52m35c5bh8r7tj2qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.managertransactio",
+            "certificate_hash": "2446d05f63039cae9fc7563bab87a8035170d53b"
+          }
+        },
+        {
+          "client_id": "535457346882-7kon1tljo65vqfdt0auvgknhja489vct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-Zp9ypMBURWueSwS2fExSMJEx7p3uW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535457346882-7kon1tljo65vqfdt0auvgknhja489vct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

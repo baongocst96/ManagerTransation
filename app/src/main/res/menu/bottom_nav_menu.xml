@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_searchs"
+        android:icon="@drawable/ic_data_usage_black_24dp"
+        android:title="Tìm kiếm"/>
+    <item
+        android:id="@+id/action_scans"
+        android:icon="@drawable/ic_data_usage_black_24dp"
+        android:title="Quét GCN"/>
+    <item
+        android:id="@+id/action_accounts"
+        android:icon="@drawable/ic_data_usage_black_24dp"
+        android:title="Tài khoản"/>
+</menu>
